@@ -1,6 +1,6 @@
 # School suite
 
-![Example](/src/renderer/images/example1.png)
+![Example](/src/renderer/assets/images/example1.png)
 
 Use case:
 
